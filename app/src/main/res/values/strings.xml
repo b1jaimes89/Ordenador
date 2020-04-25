@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Ordenador</string>
+    <string name="ingresa">"Ingresa un nùmero: "</string>
+    <string name="ordenador">Ordenador</string>
+    <string name="presionaagregar">Presiona el botòn màs para guardar el nùmero </string>
+    <string name="ejemnumero">Ejemplo: 24</string>
+    <string name="instordenar">¡ Ordenar !</string>
+    <string name="anunciovacio">Por favor ingresa un nùmero.</string>
+    <string name="elnum">"El nùmero "</string>
+    <string name="agrego">" se agrego."</string>
+    <string name="vacio">Campo vacio</string>
+    <string name="error">Ingrese almenos dos nùmeros</string>
+    <string name="numordenados">Tus nùmeros ordenados:</string>
+    <string name="inicio" translatable="false">  >> [</string>
+    <string name="fin" translatable="false"> ] >> </string>
+</resources>

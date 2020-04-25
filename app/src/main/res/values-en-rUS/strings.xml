@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ingresa">"Type a number: "</string>
+    <string name="presionaagregar">Press the button \"plus\" to save the number.</string>
+    <string name="ordenador">Sort</string>
+    <string name="ejemnumero">Example: 24</string>
+    <string name="instordenar">Sort !</string>
+    <string name="anunciovacio">Please, type a number.</string>
+    <string name="elnum">The number</string>
+    <string name="agrego">was added</string>
+    <string name="vacio">Empty field</string>
+    <string name="error">Type at least two numbers</string>
+    <string name="numordenados">Your ordered numbers:</string>
+</resources>
